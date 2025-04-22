@@ -1,0 +1,15 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env/
+
+# Audio files
+*.wav
+*.mp3
+
+# VS Code settings (optional)
+.vscode/
