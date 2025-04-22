@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.db
+*.sqlite3
+*.log
+*.pid
+
+# FastAPI specific
+instance/
+*.db
+*.sqlite3
+
+# Secrets
+*.env
+*.secrets
+secret_keys/
+
+# Pytest
+.cache/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
