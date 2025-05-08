@@ -7,7 +7,7 @@ An intelligent voice translation tool that allows you to speak in English and in
 
 ## 📸 Demo
 
-> 🖼️ Coming soon: Add a screenshot or screen recording of your working app here!
+> 🖼️ Coming soon
 
 ---
 
